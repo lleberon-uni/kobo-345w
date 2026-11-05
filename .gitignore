@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+datos_kobo/
+salidas/
+historial.json
+.build-deps/
+.build-work/
+build/
+dist/
+*.spec
+preparar_distribucion.py
